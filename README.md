@@ -5,7 +5,7 @@ The default ViteJS React Typescript starter with some minor changes.
 ## Usage
 
 ```
-npx degit pixeen/vite-clean my-project
+npx degit pixeen/vite-clean-starter my-project
 ```
 
 ## Noticeable changes
